@@ -1,0 +1,12 @@
+@OrleansSimple_HostAddress = https://localhost:7046
+
+GET {{OrleansSimple_HostAddress}}/
+Accept: application/json
+
+###
+
+PUT {{OrleansSimple_HostAddress}}/
+Accept: application/json
+
+###
+
